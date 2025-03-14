@@ -1,0 +1,5 @@
+matrix: "rnaseq.tsv"
+meta: "condition.txt"
+control: "A"
+treatment: "B"
+output_path: "./"
